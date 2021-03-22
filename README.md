@@ -1,2 +1,2 @@
 # GIT-TEST
-my test projects
+my test project
